@@ -1,4 +1,4 @@
-# Cybersecurity-Audit-Botium-Toys
+  # Cybersecurity-Audit-Botium-Toys
 "Security audit and risk assessment lab for 'Botium Toys'—completed as part of the Google Cybersecurity Professional Certificate. Evaluates simulated risk posture against NIST CSF, PCI DSS, and GDPR standards.
 # Security Audit: Botium Toys (Lab Simulation)
 
@@ -25,6 +25,11 @@ Botium Toys is a growing e-commerce company expanding into the E.U. market. Curr
 * **Endpoint Protection:** Antivirus software is installed and monitored.
 * **Physical Security:** Office and warehouse locations have sufficient locks and CCTV surveillance.
 * **GDPR Readiness:** A 72-hour breach notification plan has been established.
+
+## 📂 Project Documentation
+* [View Completed Controls Checklist (PDF)](./Audit_Checklist.pdf)
+* [View Full Risk Assessment Report (PDF)](./Risk_Assessment_Report.pdf)
+
 
 ---
 *Note: This is a portfolio project created for educational purposes within the Google Cybersecurity Professional Certificate program.*
