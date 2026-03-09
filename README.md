@@ -28,7 +28,7 @@ Botium Toys is a growing e-commerce company expanding into the E.U. market. Curr
 
 ## 📂 Project Documentation
 * [View Completed Controls Checklist (PDF)](./Audit_Checklist.pdf)
-* [View Full Risk Assessment Report (PDF)](./Risk_Assessment_Report.pdf)
+* [View Full Risk Assessment Report (PDF)](./BotiumToys_Scope,goals,andriskassessmentreport.pdf)
 
 
 ---
