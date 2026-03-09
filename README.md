@@ -26,9 +26,6 @@ Botium Toys is a growing e-commerce company expanding into the E.U. market. Curr
 * **Physical Security:** Office and warehouse locations have sufficient locks and CCTV surveillance.
 * **GDPR Readiness:** A 72-hour breach notification plan has been established.
 
-## 📂 Project Documentation
-* [View Completed Controls Checklist (PDF)](./Audit_Checklist.pdf)
-* [View Full Risk Assessment Report (PDF)](./BotiumToys_Scope,goals,andriskassessmentreport.pdf)
 
 
 ---
