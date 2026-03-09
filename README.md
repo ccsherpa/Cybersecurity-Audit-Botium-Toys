@@ -26,12 +26,5 @@ Botium Toys is a growing e-commerce company expanding into the E.U. market. Curr
 * **Physical Security:** Office and warehouse locations have sufficient locks and CCTV surveillance.
 * **GDPR Readiness:** A 72-hour breach notification plan has been established.
 
-## Recommendations
-To improve Botium Toys' security posture, the following actions are recommended:
-1.  **Implement Encryption:** Encrypt all sensitive data at rest and in transit to meet PCI DSS/GDPR requirements.
-2.  **Enforce Least Privilege:** Restrict data access based on job roles to minimize internal risk.
-3.  **Establish Backups:** Create a formal Disaster Recovery Plan including regular, automated data backups.
-4.  **Deploy IDS:** Install an Intrusion Detection System to provide visibility into network threats.
-
 ---
 *Note: This is a portfolio project created for educational purposes within the Google Cybersecurity Professional Certificate program.*
